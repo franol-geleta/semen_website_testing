@@ -1,0 +1,20 @@
+{
+  "name": "sementest",
+  "version": "1.0.0",
+  "description": "cypres semen msms test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "semen",
+    "app",
+    "test"
+  ],
+  "author": "franol geleta",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
